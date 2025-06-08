@@ -1,5 +1,6 @@
 name: Build and Deploy OpenFaaS Function
 
+
 on:
   push:
     branches: [master]
